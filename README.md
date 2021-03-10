@@ -1,5 +1,5 @@
 # Redux-Store
-## <a href="" target="_blank">Link</a>
+## <a href="https://redux-store-486de.web.app/" target="_blank">Link</a>
 Bacis shopping cart application made using redux and thunk..
 
 ### `git clone https://github.com/Bekir-Akok/redux-store`
